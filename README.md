@@ -1,6 +1,6 @@
 # Bernd De Baere 
 
-Software developer with interest in .Net and webWeb-applications
+Software developer with interest in .Net and Web-applications
 
 ## Education
  - High school: Industrial ICT @  [VTI Waregem](https://www.vtiwaregem.eu/)
