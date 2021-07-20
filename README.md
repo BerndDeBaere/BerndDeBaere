@@ -8,7 +8,7 @@ Software developer with interest in .Net and Web-applications
 
 ## Experience
  - Software developer @ [C&W Logistics](https://www.cwlogistics.be) since sep 2016 untill oct 2017
- - .Net Consultant @ [AllPhi](https://www.allphi.eu) since oct 2017
+ - .Net Software developer @ [AllPhi](https://www.allphi.eu) since oct 2017
  
 ## Contact me
  - [LinkedIn](https://www.linkedin.com/in/bernddebaere/)
